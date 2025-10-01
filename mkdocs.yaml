@@ -1,0 +1,12 @@
+repo_name: empowerplan/epp-app
+repo_url: https://github.com/empowerplan/epp-app
+site_name: EmPowerPlan Dokumentation
+site_url: http://127.0.0.1:8000/
+
+nav:
+  - Start: index.md
+  - Entwickler (en):
+    - Setup: setup.md
+    - Technologien: technology.md
+    - Datenstruktur: data_structure.md
+
